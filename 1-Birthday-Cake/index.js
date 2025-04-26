@@ -63,6 +63,7 @@ function stopMedia() {
   if (stream) {
     stream.getTracks().forEach((track) => track.stop());
     console.log('Microphone stopped!');
+    confetti();
   }
   if (audioContext) {
     audioContext.close();
@@ -82,10 +83,6 @@ function onHold() {
 
   startButton.addEventListener('mouseup', () => {
     clearTimeout(holdTimer);
-    stopMedia();
-
-    confetti();
-    confetti();
   });
 
   // Optional: stop when mouse leaves button
