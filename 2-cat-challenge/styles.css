@@ -21,7 +21,7 @@ body {
   height: 30px;
   position: absolute;
   top: 25%;
-  border-radius: 16px 2px 16px 2px;
+  border-radius: 50% 5%;
   transform: rotate(45deg);
   z-index: 5;
   display: flex;
