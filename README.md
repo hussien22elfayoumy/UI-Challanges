@@ -8,6 +8,6 @@ Allow access to voice and make a wish [Demo](https://hussien22elfayoumy.github.i
 
 Css cat challenge drawing [Demo](https://hussien22elfayoumy.github.io/UI-Challanges/2-cat-challenge/)
 
-## 2- Cat challenge
+## 2- Button animation
 
 Animate button [Demo](https://hussien22elfayoumy.github.io/UI-Challanges/3-button-animate/)
